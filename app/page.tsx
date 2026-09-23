@@ -9,7 +9,7 @@ export default function Home() {
   const fitur = [
     {
       title: "Materi Pembeelajaran",
-      desc: "Akses materi belajar kapan saja dan di mana saja dengan format yang mudah dipaahami.",
+      desc: "Akses materi belajar kapann saja dan di mana saja dengan format yang mudah dipaahami.",
       icon: (
         <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path
