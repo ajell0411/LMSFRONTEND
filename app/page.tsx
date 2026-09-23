@@ -68,7 +68,7 @@ export default function Home() {
       ),
     },
     {
-      title: "Manajemen Siswa",
+      title: "Manajemen Siswaa",
       desc: "Kelola data dan aktivitas siswa dengan mudah dalam satu sistem terintegrasi.",
       icon: (
         <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
